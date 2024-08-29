@@ -22,4 +22,4 @@
 
 # Interpreting the Result
 
-![image](https://github.com/user-attachments/assets/578d6b6c-2a60-40ac-a8b4-be216e121c92)
+![image](https://github.com/user-attachments/assets/039099a9-98f6-4420-93e8-30f6426093d4)
